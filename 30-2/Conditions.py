@@ -43,13 +43,41 @@
 #     print('even')
 
 
-x = int(input('please enter a number : '))
-op = str(input('please enter a operator : '))
-y = int(input('please enter a number : '))
+# x = int(input('please enter a number : '))
+# op = str(input('please enter a operator : '))
+# y = int(input('please enter a number : '))
+#
+# if op =='-':
+#     print(x-y)
+# if op =='+':
+#     print(x+y)
 
-if op =='-':
-    print(x-y)
-if op =='+':
-    print(x+y)
+
+# x = int(input('enter a number : '))
+#
+# if x > 0 or x%2 == 0:
+#     print('passed')
 
 
+ # -4 -1 0 1   2  # 4 pos  1 neg
+
+
+
+# text = 'feed me the pizza'
+# # contain
+# if 'M' in text :
+#     print("found it")
+# else:
+#     print('naaah')
+
+
+# grade = int(input('enter your grade'))
+#
+# if grade >= 90 :
+#     print('A')
+# elif  80 <= grade < 90:
+#     print('B')
+# elif 70 <= grade < 80:
+#     print('C')
+# else:
+#     print('F')
