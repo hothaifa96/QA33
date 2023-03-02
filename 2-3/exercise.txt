@@ -1,0 +1,9 @@
+Selenium exercise 1:
+
+Enter this url using selenium :https:/demo.applitools.com/
+
+Enter 'admin' in the username section and 
+'password' in the password section
+
+Print to the screen the balance status after a loan the full credit available on the account
+
