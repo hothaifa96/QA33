@@ -1,6 +1,6 @@
 Selenium exercise 1:
 
-Enter this url using selenium :https:/demo.applitools.com/
+Enter this url using selenium:https:/demo.applitools.com/
 
 Enter 'admin' in the username section and 
 'password' in the password section
